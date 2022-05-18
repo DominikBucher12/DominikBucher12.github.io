@@ -1,1 +1,3 @@
-# Develodom's corner
+---
+layout: default
+---

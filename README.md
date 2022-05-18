@@ -1,3 +1,1 @@
-# DominikBucher12.github.io
-
-This is repository of blog which containst Apple developer tips.
+Develodom's hot new website, currently in progress

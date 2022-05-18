@@ -1,1 +1,87 @@
-theme: jekyll-theme-architect
+# Develodom site
+markdown: kramdown
+
+# URL of the Site
+url: ''
+# Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
+baseurl: 
+
+# Title of the Site
+title: Dominik Bucher.
+# Description of the Site
+description: Passionate iOS Developer with variety of skills.
+# URL of Image of the Site
+site-image: /assets/images/logo.png
+# Keywords of the Site
+site-keywords: iOS, macOS, Developer, Swift, Objective-C, iPadOS, SwiftUI, Programming, devOps, Ruby, Xcode
+# URL for the Image of custom Favicon
+favicon-url: /assets/images/logo.png
+
+# URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
+heroimage: /assets/images/page_header.jpg
+
+# Social Media and Contact
+# If you don't want to use any icon, you can leave them blank.
+email: d.bucher@centrum.com
+twitter_username: buchedom
+instagram_username: develodom_s7
+linkedin_username: dominikbucher
+github_username:  DominikBucher12
+spotify_username: develodom
+
+
+# Name of the Author
+author-name: Dominik Bucher
+# URL for the Image of the Author
+author-image: /assets/images/author_photo.jpg
+# 60 Words About the Author
+author-about: I've been passionate iOS Developer since the release of Swift programming language back in 2014. I know how to build apps from scratch, how to test them, make them scalable and testable. Apart from loving coding Apple apps, I love to automate things and stuff. My home is my terminal. Feel free to contact me so we can discuss anything related to mobile development, git, Apple or even automotive industry! Let's get in touch 😊
+# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
+author-url: https://github.com/DominikBucher12
+
+# SASS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Build settings
+plugins:
+  - jekyll-admin
+  - jekyll-feed
+
+# Permalink
+permalink: "blog/:title"
+
+# Compress
+compress_html:
+  clippings: all
+
+# Defaults
+defaults:
+  -
+    scope:
+      type: 'posts'
+    values:
+      layout: post
+      post-image: ""
+      description: ""
+      tags:
+        - ""
+  -
+    scope:
+      type: 'pages'
+    values:
+      layout: page
+
+# Exclude
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
