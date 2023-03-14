@@ -24,5 +24,4 @@ clear read of them. Try it out!
 * Go to System Preferences -> Extensions -> Xcode Source Editor and enable the extension
 * You should be able to see the extension inside Editor menu in Xcode.
 
-###### If you find any problem with the extension, feedback or have some suggestion, feel free to contact me at d.bucher@centrum.cz 
-{:target="_blank"} page
+###### If you find any problem with the extension, feedback or have some suggestion, feel free to contact me at [d.bucher@centrum.cz](mailto:d.bucher@centrum.cz)
