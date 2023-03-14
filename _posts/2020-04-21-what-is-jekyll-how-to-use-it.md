@@ -1,7 +1,7 @@
 ---
 title: Muline, the Xcode extension you have been looking for.
 layout: post
-post-image: ""https://raw.githubusercontent.com/DominikBucher12/DominikBucher12.github.io/master/assets/images/muline.png?"
+post-image: "https://raw.githubusercontent.com/DominikBucher12/DominikBucher12.github.io/master/assets/images/muline.png?"
 description: Muline is an Xcode extension which helps you with formatting of your code. If you care about your code readability, 
 you probably divide parameters of functions on separate lines for
 clear read of them. Try it out!
@@ -11,10 +11,12 @@ tags:
 - technology
 - ast
 - shortcut
--productivity
+- productivity
 ---
 
-Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind GitHub Pages, which you can use to host sites right from your GitHub repositories and if you don't know what GitHub Pages are you can visit on click [here](https://help.github.com/en/github/working-with-github-pages/about-github-pages){:target="blank"} or [here](https://pages.github.com/){:target="blank"}
+Muline is an Xcode extension which helps you with formatting of your code. If you care about your code readability, 
+you probably divide parameters of functions on separate lines for
+clear read of them. Try it out!
 ###### Source : [`Jekyll Docs`](https://jekyllrb.com/docs/)
 
 > ### To know more and get started with Jekyll you can click [here](https://jekyllrb.com/){:targe="_blank"}
