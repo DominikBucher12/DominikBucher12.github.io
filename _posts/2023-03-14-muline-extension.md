@@ -1,5 +1,5 @@
 ---
-title: Muline, the Xcode extension you have been looking for.
+title: Muline, the Xcode extension you have been looking for
 layout: post
 post-image: https://raw.githubusercontent.com/DominikBucher12/DominikBucher12.github.io/master/assets/images/muline.png
 description: Muline is an Xcode extension which helps you with formatting of your code. If you care about your code readability, you probably divide parameters of functions on separate lines for clear read of them. Try it out!
