@@ -1,13 +1,17 @@
 ---
-title: What is Jekyll? How to use it?
+title: Muline, the Xcode extension you have been looking for.
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/What%20is%20Jekyll%20and%20How%20to%20use%20it.png?token=AHMQUELVG36IDSA4SZEZ5P26Z64IW"
-description: Jekyll is a static site generator. You give it text written in your favorite
-  markup language and it uses layouts to create a static website.
+post-image: ""https://raw.githubusercontent.com/DominikBucher12/DominikBucher12.github.io/master/assets/images/muline.png?"
+description: Muline is an Xcode extension which helps you with formatting of your code. If you care about your code readability, 
+you probably divide parameters of functions on separate lines for
+clear read of them. Try it out!
 tags:
-- jekyll
-- informative
+- extension
+- sourceformatting
 - technology
+- ast
+- shortcut
+-productivity
 ---
 
 Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind GitHub Pages, which you can use to host sites right from your GitHub repositories and if you don't know what GitHub Pages are you can visit on click [here](https://help.github.com/en/github/working-with-github-pages/about-github-pages){:target="blank"} or [here](https://pages.github.com/){:target="blank"}
@@ -18,9 +22,7 @@ Jekyll is a simple, blog-aware, static site generator perfect for personal, proj
 # Installation
 **Jekyll is a Ruby Gem that can be installed on most systems.**
 ### Requirements
-* [Ruby](https://www.ruby-lang.org/en/downloads/){:target="_blank"} version 2.5.0 or above, including all development headers (ruby version can be checked by running ruby -v)
-* [Ruby Gems](https://rubygems.org/pages/download){:target="_blank"} (which you can check by running gem -v)
-* [GCC](https://gcc.gnu.org/install/){:target="_blank"} and [Make](https://www.gnu.org/software/make/){:target="_blank"}
+* Download the app from appstore 
 
 ### After Installing the Requirements you can follow these guides:
 **For detailed install instructions have a look at the guide for your operating system.**
